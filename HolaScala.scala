@@ -1,4 +1,6 @@
 /*
+Se uso visualStudioCode con la extension: Scala (Metals) de Scalameta
+
 Para compilar:
   scalac HolaScala.scala
 
